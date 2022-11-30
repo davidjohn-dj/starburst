@@ -15,6 +15,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://davidjohn-dj.github.io/starburst/build",
   "browserslist": [
     ">0.2%",
     "not dead",
